@@ -3,7 +3,7 @@ module.exports = {
     title: `Simple comme une donnée`,
     author: {
       name: `Etienne Pichot Damon,`,
-      summary: `qui a pour mission de faciliter le partage des données.`,
+      summary: `qui a pour mission de faciliter le partage des données d'intérêt général.`,
     },
     description: `Série de mini-reportages sur la donnée et ses métiers.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
