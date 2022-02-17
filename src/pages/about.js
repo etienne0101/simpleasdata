@@ -7,10 +7,16 @@ const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
       <Bio />
-      <img src="portrait-bio.png" align="left" />
+      <img 
+        src="../images/portrait-bio.png" 
+        align="left" 
+        width="300" 
+        height="360" 
+        className="portraitpic" />
       <p><h6>Hello ! </h6></p>
       <p><i>Simple comme une donnée</i>, c'est une série de mini reportages sur le sujet des données.
         J'interroge des spécialistes de tout horizon sur la façon dont ils utilisent ou produisent des données.
+        
 
         <h6>Qu'allez-vous voir dans les épisodes de <i>Simple comme une donnée </i> ?</h6>
 

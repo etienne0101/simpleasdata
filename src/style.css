@@ -167,6 +167,10 @@ p {
   padding: var(--spacing-0);
 }
 
+.portraitpic {
+  margin-right: 50px;
+}
+
 ul,
 ol {
   margin-left: var(--spacing-0);
