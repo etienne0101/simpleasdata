@@ -34,7 +34,7 @@ const AboutPage = () => {
         J'ai toujours travaillé <i>dans la data</i>, d'abord pour la Métropole de Lille, où j'ai initié l'open data en 2016, 
         puis chez <a href="https://datactivist.coop">Datactivist</a>, où j'étais consultant.
         <p></p> 
-        <p><b>Et donc depuis plusiers années, je croise des personnes brillantes sur leurs sujets, et communicatives sur leur passion des données - 
+        <p><b>Et donc depuis plusieurs années, je croise des personnes brillantes sur leurs sujets, et communicatives sur leur passion des données - 
           d'où cette envie de les mettre en lumière avec <i>Simple comme une donnée</i></b></p>
       </p>
     </Layout>
