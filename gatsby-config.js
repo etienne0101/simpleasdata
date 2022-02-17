@@ -3,7 +3,7 @@ module.exports = {
     title: `Simple comme une donnée`,
     author: {
       name: `Etienne Pichot Damon,`,
-      summary: `qui a pour mission de faciliter le partage des données.`,
+      summary: `qui a pour mission de faciliter le partage des données d'intérêt général.`,
     },
     description: `Série de mini-reportages sur la donnée et ses métiers.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -121,7 +121,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/profile-pic.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile-pic2.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
