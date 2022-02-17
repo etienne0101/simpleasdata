@@ -5,7 +5,7 @@ module.exports = {
       name: `Etienne Pichot Damon,`,
       summary: `qui a pour mission de faciliter le partage des données.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Série de mini-reportages sur la donnée et ses métiers.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       linkedin: `etiennepichotdamon`,
