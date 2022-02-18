@@ -18,7 +18,8 @@ const AboutPage = () => {
         <li>Quels sont les différents métiers de la donnée publique ?</li> 
         <li>Quels sont les outils et les méthodes que ces personnes emploient au quotidien ?</li> 
         </p>
-        <p><blockquote>Le fil conducteur de <i>Simple comme une donnée </i>: comprendre ce que font les données et savoir les utiliser, <b>c'est à la portée de toute personne qui s'y intéresse.</b></blockquote></p>
+        <p><blockquote>Le fil conducteur de <i>Simple comme une donnée </i>: comprendre ce que font les données et savoir les utiliser, c'est à la portée 
+        de toute personne qui s'y intéresse.</blockquote></p>
       </p>
       <h5>Qui suis-je ?</h5>
       <img 
@@ -27,7 +28,7 @@ const AboutPage = () => {
         width="300" 
         height="360" 
         className="portraitpic" />
-      <p>Je travaille sur ce projet sur mon temps libre, depuis Lille 🇫🇷</p> 
+      <p>Je m'appelle Etienne Pichot Damon, je travaille sur ce projet sur mon temps libre, depuis Lille 🇫🇷</p> 
         <p>Aujourd'hui je suis freelance, en mission pour Etalab et plus particulièrement pour <a href="https://api.gouv.fr">api.gouv.fr</a>.
         J'ai toujours travaillé <i>dans la data</i>, d'abord pour la Métropole de Lille, où j'ai initié l'open data en 2016, 
         puis chez <a href="https://datactivist.coop">Datactivist</a>, où j'étais consultant.
