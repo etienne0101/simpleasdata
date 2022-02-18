@@ -1,11 +1,12 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
+import Footer from "../components/footer" 
 import {
   container,
   heading,
   navLinks,
   navLinkItem,
-  navLinkText
+  navLinkText,
 } from './layout.module.css'
 const Layout = ({ pageTitle, children }) => {
   return (
@@ -15,12 +16,12 @@ const Layout = ({ pageTitle, children }) => {
         <ul className={navLinks}>
           <li className={navLinkItem}>
             <Link to="/" className={navLinkText}>
-              Home
+              Accueil
             </Link>
           </li>
           <li className={navLinkItem}>
             <Link to="/about" className={navLinkText}>
-              About
+              À propos
             </Link>
           </li>
         </ul>
@@ -29,6 +30,7 @@ const Layout = ({ pageTitle, children }) => {
         <h1 className={heading}>{"Simple comme une donnée"}</h1>
         {children}
       </main>
+      <Footer />
     </div>
   )
 }
