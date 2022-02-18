@@ -28,6 +28,7 @@ const Layout = ({ pageTitle, children }) => {
       </nav>
       <main>
         <h1 className={heading}>{"Simple comme une donnée"}</h1>
+        <hr></hr>
         {children}
       </main>
       <Footer />

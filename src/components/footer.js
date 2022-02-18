@@ -41,7 +41,7 @@ import {
             </Link>
           </li>
           <li className={navLinkItem}>
-          <Link to="https://www.linkedin.com/in/etiennepichotdamon/" className={navLinkItem}>
+          <Link to="https://github.com/etienne0101/simpleasdata" className={navLinkItem}>
             <StaticImage
         className="SocialLogo"
         layout="fixed"
