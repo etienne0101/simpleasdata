@@ -18,14 +18,20 @@
     list-style: none;
     padding-left: 0;
   }
-  .nav-link-item {
-    padding-right: 2rem;
+  .navLinkItem {
+    padding-left: 2rem;
+    width: 100%;
   }
-  .nav-link-text {
+  .navLinkText {
     color: black;
-    max-width: 700px;
+    width: 10%;
   }
   .footer {
     color: black;
     max-width: 700px;
+  }
+
+  .footerElements {
+    align-items: center;
+    color: rgb(0, 0, 0);
   }
