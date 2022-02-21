@@ -64,6 +64,19 @@ import {
         height={45}
         quality={95}
       />
+      </Link>
+          </li>
+          <li className={navLinkItem}>
+          <Link to="mailto:etiennepichotdamon@gmail.com" className={navLinkItem}>
+            <StaticImage
+        className="SocialLogo"
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/email-logo.png"
+        width={45}
+        height={45}
+        quality={95}
+      />
             </Link>
           </li>
         </ul>
