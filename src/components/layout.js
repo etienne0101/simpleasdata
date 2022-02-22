@@ -12,11 +12,17 @@ const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>
       <title>{"Simple comme une donnée"}</title>
+      <h1 className={heading}>{"Simple comme une donnée"}</h1>
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}>
             <Link to="/" className={navLinkText}>
-              Accueil
+              Blog
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="/data-curiosities" className={navLinkText}>
+              Data-curiosités
             </Link>
           </li>
           <li className={navLinkItem}>
@@ -27,7 +33,6 @@ const Layout = ({ pageTitle, children }) => {
         </ul>
       </nav>
       <main>
-        <h1 className={heading}>{"Simple comme une donnée"}</h1>
         <hr></hr>
         {children}
       </main>

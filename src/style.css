@@ -250,6 +250,11 @@ a:focus {
 
 /* Custom classes */
 
+.airtable {
+  position: relative;
+  right: 0px;
+}
+
 .global-wrapper {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
